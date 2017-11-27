@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/EventNotifyModalClick.cs">
+    <Files>
+      <File FileName="Assets/ExplorationSceneManager.cs" Line="23" Column="18" />
+      <File FileName="Assets/AsnapynButtonClick.cs" Line="11" Column="87" />
+      <File FileName="Assets/EventNotifyModalClick.cs" Line="9" Column="32" />
+      <File FileName="Assets/ExploreConfirmModalClick.cs" Line="22" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
